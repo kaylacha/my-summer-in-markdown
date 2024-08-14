@@ -1,14 +1,17 @@
 # my-summer-in-markdown
 
-## Topic 1
+##Introduction
+Hello, My name is Kayla Cha and I am in 12th grade. I currently live with my sister, mom and dad. I have two cats one named Luna and another named Tofu. Luna is a tuxeudo cat breed and Tofu is a mix. 
 
-## Topic 2
+##Summer Activities
+One summer activity I particpated in was 
 
-## Topic 3
+##Goals for the School Year
 
-## Topic 4
+##Summer Travel Experience
 
-## Topic 5
+##Sports or Physical Activites
+
 
 **BOLD**
 
@@ -25,4 +28,4 @@
  
   [read about ...](https://www.wikipedia.org/)
 
-  
+  ![]()
