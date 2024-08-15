@@ -1,6 +1,6 @@
 # my-summer-in-markdown
 
-#Introduction
+# Introduction
 Hello, My name is Kayla Cha and I am in 12th grade. I currently live with my sister, mom and dad. I have two cats one named Luna and another named Tofu. Luna is a tuxeudo cat breed and Tofu is a mix. 
 Courses I am taking 
 1. Ap Pyschology
